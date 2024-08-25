@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sora(anirban)</h1>
 <h3 align="center">A passionate cyber security engineer from India</h3>
-<img align="right" alt="cybersecurity" width="3500" src="https://www.teepublic.com/sticker/30719415-you-clicked-the-link-funny-cybersecurity-infosec">
+<img align="right" alt="cybersecurity" width="3500" src="https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png?resize=1200%2C630">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sora&label=Profile%20views&color=0e75b6&style=flat" alt="sora" /> </p>
 
