@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sora(anirban)</h1>
 <h3 align="center">A passionate cyber security engineer from India</h3>
-<img align="right" alt="cybersecurity" width="3500" src="https://giphy.com/gifs/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH>
+<img align="right" alt="cybersecurity" width="3500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcyber-gifs&psig=AOvVaw3Nzl5eLRimKl54Lzu_0Rdm&ust=1724700318277000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCAvZLwkIgDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sora&label=Profile%20views&color=0e75b6&style=flat" alt="sora" /> </p>
 
