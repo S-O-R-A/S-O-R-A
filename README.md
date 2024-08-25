@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sora(anirban)</h1>
 <h3 align="center">A passionate cyber security engineer from India</h3>
-<img align="right" alt="cybersecurity" width="3500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnerdshizzle.com%2Fproduct%2Fcyber-security-professional-funny-job-description-t-shirt%2F&psig=AOvVaw2ztX3EBni1U7riJEcSQ7Ky&ust=1724700768117000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCK-JbxkIgDFQAAAAAdAAAAABAE">
+<img align="right" alt="cybersecurity" width="3500" src="https://www.teepublic.com/sticker/30719415-you-clicked-the-link-funny-cybersecurity-infosec">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sora&label=Profile%20views&color=0e75b6&style=flat" alt="sora" /> </p>
 
