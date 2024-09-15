@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sora&label=Profile%20views&color=0e75b6&style=flat" alt="sora" /> </p>
 
-- 🔭 I’m currently working on **API Security**
+- 🔭 I'm currently working on **GRC cert** 
 
 - 🌱 I’m currently learning **Cyber security with AI**
 
